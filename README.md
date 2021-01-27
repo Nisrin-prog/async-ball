@@ -1,2 +1,2 @@
-# async-ball
-code ref for shreya
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
